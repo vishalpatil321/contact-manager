@@ -1,0 +1,146 @@
+.container{
+    width: 25%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+header{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.content{
+    width: 100%;
+    height: 78%;
+    padding: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+hr{
+    width: 90%;
+    height: 4px;
+    background-color: rgb(86, 86, 243);
+}
+.copyright{
+  font-size: 13px;
+}
+@media screen and (max-width : 667px){
+    .container{
+      width: 100%;
+      height: 100vh;
+      border: none;
+    }
+    @media screen and (max-width : 896px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width :844px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 932px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 915px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 740px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 1024px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 1180px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width :1366px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 1368px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 653px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 1280px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 914px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 667px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 600px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+      @media screen and (max-width : 800px){
+        .container{
+            width: 100%;
+            height: 100vh;
+            border: none;
+          }
+      }
+  }
